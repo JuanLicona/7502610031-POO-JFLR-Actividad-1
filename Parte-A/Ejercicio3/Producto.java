@@ -2,11 +2,12 @@ package Ejercicio3;
 
 public class Producto {
 
-    String nombre;
-    double precio;
-    int stock;
+   public String nombre;
+   public double precio;
+   public int stock;
 
-    void mostrarProducto() {
+
+   public void mostrarProducto() {
         System.out.println(nombre + "   $" + precio + "  Stock: " + stock); }
 }
 

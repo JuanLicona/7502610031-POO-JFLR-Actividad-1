@@ -1,11 +1,13 @@
 package Ejercicio2;
 
+import java.security.PublicKey;
+
 public class Vehiculo {
 
-    String marca;
-    float modelo;
-    String color;
-    int velocidadActual;
+    public String marca;
+   public float modelo;
+    public String color;
+    public int velocidadActual;
 
 
 

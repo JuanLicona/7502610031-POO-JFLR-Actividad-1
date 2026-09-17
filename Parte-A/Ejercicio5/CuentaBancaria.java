@@ -1,10 +1,10 @@
-package Ejercicio4;
+package Ejercicio5;
 
 public class CuentaBancaria {
 
-    String numero;
-    String titular;
-    double saldo;
+    public String numero;
+   public  String titular;
+   public double saldo;
 
     public void mostrarCuenta()
     { System.out.println("Cuenta: " + numero + "   Titular: " + titular + "   Saldo: $" + saldo); }

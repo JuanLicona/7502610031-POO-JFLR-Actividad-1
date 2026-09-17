@@ -3,9 +3,9 @@ package Ejercicio1;
 public class Estudiante {
 
 
-    String nombre;
-    int codigo;
-    int semestre;
+    public String nombre;
+    public String codigo;
+    public int semestre;
 
 
     public void MostrarInfo(){
