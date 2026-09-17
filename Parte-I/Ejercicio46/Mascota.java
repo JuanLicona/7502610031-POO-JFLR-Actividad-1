@@ -37,7 +37,7 @@ public class Mascota {
 
     public static void main(String[] args) {
         Mascota mascota = new Mascota();
-        mascota.nombre = "Firulais";
+        mascota.nombre = "Connor";
         mascota.mostrar();
     }
 }

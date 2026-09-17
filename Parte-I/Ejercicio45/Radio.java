@@ -25,7 +25,7 @@ package Ejercicio45;
  * el compilador entiende que el archivo termino de describir esa clase y
  * solo espera otra declaracion de nivel superior (otra clase, interfaz,
  * etc). El metodo apagar() quedo escrito FUERA del cuerpo de la clase, y
- * en Java ningun metodo puede existir suelto: todo metodo debe vivir
+ * en Java ningun metodo puede existir suelto: todo metodo debe estar
  * dentro de una clase. Por eso el compilador se queja pidiendo "class,
  * interface, enum, or record" justo donde encontro "public void".
  *

@@ -45,7 +45,7 @@ public class CuentaBancaria {
     }
 
     public void mostrarInfo() {
-        System.out.println("Ultimo monto depositado: " + monto);
+        System.out.println("Ultima transaccion: " + monto);
         System.out.println("Saldo actual: " + saldo);
     }
 
